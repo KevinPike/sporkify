@@ -1,0 +1,4 @@
+- Frontend
+- Ability to fork a playlist, creating the same playlist for the current user
+- Ability to receive updates for a forked playlist
+- Ability to merge playlist into a playlist of the current user
